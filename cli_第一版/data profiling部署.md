@@ -117,7 +117,7 @@ $ cd mdms
 将mdms/mdms-metanome/src/main/java/de/hpi/isg/mdms/metanome/文件下的**MetacrateResultReceiver.java**替换附件中的**MetacrateResultReceiver.java**。
 
 ```
-mvn instal
+mvn install
 ```
 
 **这一步是metanome-cli部署不可缺少的一步。**
